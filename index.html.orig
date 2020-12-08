@@ -9,7 +9,11 @@
    
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="fontawesome/css/all.css">
-    <title>Art ComPract1</title>
+<<<<<<< HEAD
+    <title>Комп'ютерний практикум №3.Git i GitHub.</title>
+=======
+    <title>Комп'ютерний практикум №3.</title>
+>>>>>>> master
 </head>
 <body style="background-color:#bb8860b">
 
